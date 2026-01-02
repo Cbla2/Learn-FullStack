@@ -12,7 +12,7 @@ sequence Diagram
 '''
 
 ## 0.5: Single page app diagram
-# In short all of the logig is on teh server, and the browser renders the HTML
+# In short all of the logic is on the server, and the browser renders the HTML
 
 '''mermaid
 
